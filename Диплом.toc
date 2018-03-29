@@ -1,0 +1,10 @@
+\select@language {russian}
+\contentsline {chapter}{Введение}{2}{chapter*.2}
+\contentsline {chapter}{Основная часть}{3}{chapter*.3}
+\contentsline {section}{Глава 1. Виолончельное искусство в России I половины XIX века}{3}{section*.4}
+\contentsline {section}{Глава 2. К.~Ю.~Давыдов и его ученики}{6}{section*.5}
+\contentsline {section}{Глава 3. Место виолончели в оркестровой и ансамблевой музыке того времени}{9}{section*.7}
+\contentsline {section}{Глава 4. Основные произведения <дискография>}{10}{section*.10}
+\contentsline {section}{Глава 5. Педагогическая ценность}{10}{section*.11}
+\contentsline {chapter}{Заключение}{11}{chapter*.12}
+\contentsline {chapter}{Литература}{11}{Item.17}
